@@ -7,3 +7,12 @@
     justify-content: center;
     align-items: center;
 }
+
+.green{
+    background-color: green;
+    border: 1px solid blue;
+}
+
+.contain{
+    padding: 40px;
+}
