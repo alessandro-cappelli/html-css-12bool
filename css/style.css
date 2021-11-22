@@ -26,3 +26,17 @@
     border-top: 1px solid #006CFA;
 }
 
+.space{
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.green-2{
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+}
+
+.space-2{
+    justify-content: space-between;
+    padding: 40px;
+}
