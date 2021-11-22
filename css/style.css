@@ -1,5 +1,5 @@
 [class*="col-"]{
-    background-color: blue;
+    background-color: #006CFA;
     border: solid 1px white;
     color: white;;
     height: 50px;
@@ -9,8 +9,8 @@
 }
 
 .green{
-    background-color: green;
-    border: 1px solid blue;
+    background-color: #00E165;
+    border: 1px solid #006CFA;
 }
 
 .contain{
@@ -19,4 +19,10 @@
 
 .no-border{
     border: none;
+    
 }
+
+.nono{
+    border-top: 1px solid #006CFA;
+}
+
