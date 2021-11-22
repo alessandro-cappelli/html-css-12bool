@@ -1,0 +1,9 @@
+[class*="col-"]{
+    background-color: blue;
+    border: solid 1px white;
+    color: white;;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
