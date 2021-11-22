@@ -16,3 +16,7 @@
 .contain{
     padding: 40px;
 }
+
+.no-border{
+    border: none;
+}
